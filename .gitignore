@@ -1,0 +1,34 @@
+# Local third-party sources, packages, and build products
+/sources/
+/packages/
+/build-deps/
+/tools/
+# Device identifiers, pairing records, signing data, and restore output
+/logs/
+/runtime/
+/cache/
+*.ipsw
+*.part
+*.chunks.json
+*.shsh
+*.shsh2
+*.im4m
+*.pem
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+.env
+.env.*
+__pycache__/
+*.pyc
+/firmware/*
+!/firmware/selected.json
+!/firmware/SHA256SUMS
+/KIT-SHA256SUMS
+/READY.txt
+/RESTORE-SUCCESS.txt
+
+# Local publication validation
+/.publication-checks/
+*.log

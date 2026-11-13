@@ -1,0 +1,14 @@
+{
+  "model": "Mac16,10",
+  "checked": "2026-10-31",
+  "firmware": {
+    "identifier": "Mac16,10",
+    "version": "27.0.1",
+    "buildid": "26A434",
+    "sha256sum": "2f016638293c3e641b8b25391a76fbc16563b3711915a5551cf8aa0f5598a5c1",
+    "filesize": 26637307067,
+    "url": "https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw",
+    "releasedate": "2026-09-28T17:24:38Z",
+    "uploaddate": "2026-09-24T21:23:41Z"
+  }
+}
